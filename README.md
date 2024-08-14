@@ -1,7 +1,3 @@
-Here's a README file for your project, highlighting the key aspects of your custom promise implementation and the current limitations:
-
----
-
 # iPromise
 
 Welcome to the **iPromise** project! This repository contains my custom implementation of JavaScript's Promise, named `iPromise`. 
